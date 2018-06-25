@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Local Business Unit" max_length="40" name="x_42548_dxc_doc_ap_local_business_unit" type="collection"/>
+</database>
